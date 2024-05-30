@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.MainController">
+  <children>
+    <TabPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" tabClosingPolicy="UNAVAILABLE" tabMinHeight="30.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <tabs>
+        <Tab onSelectionChanged="#knifesTab" text="%Tab.Knife">
+          <content>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0">
+              <children>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                  <children>
+                    <Label text="%Label.Knifes">
+                      <font>
+                        <Font name="Verdana" size="24.0" />
+                      </font>
+                    </Label>
+                    <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                      <children>
+                        <TableView fx:id="tableKnifes" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#ClickKnife" HBox.hgrow="ALWAYS">
+                          <columns>
+                            <TableColumn fx:id="NameKnifeColumn" prefWidth="101.0" text="%Column.Knife" />
+                            <TableColumn fx:id="PriceColumn" prefWidth="102.0" text="%Column.Price" />
+                            <TableColumn fx:id="DescriptionColumn" prefWidth="120.0" text="%Column.Description" />
+                            <TableColumn fx:id="KnifeAvaliabilityColumn" prefWidth="50.0" text="%Column.Avaliability" />
+                            <TableColumn fx:id="KnifeQuantityStockColumn" prefWidth="50.0" text="%Column.QuantityStock" />
+                            <TableColumn fx:id="KnifeCategoryColumn" prefWidth="134.0" text="%Column.Category" />
+                            <TableColumn fx:id="KnifeProducerColumn" prefWidth="131.0" text="%Column.Producer" />
+                          </columns>
+                        </TableView>
+                        <VBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="250.0" spacing="12.0">
+                          <children>
+                            <TextField fx:id="KnifeNameText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Knife" />
+                            <TextField fx:id="KnifePriceText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Price" />
+                            <TextField fx:id="KnifeDescriptionText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Description" />
+                            <TextField fx:id="KnifeQuantityInStock" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.QuantityInStock" />
+                            <ComboBox fx:id="CategoryCombo" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Category" />
+                            <ComboBox fx:id="ProducerCombo" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Producer" />
+                            <ComboBox fx:id="KnifeAvaliabilityText" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Avaliability" visible="false"/>
+                            <Button onAction="#AddKnife" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                            <Button onAction="#DeleteKnife" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                            <Button onAction="#UpdateKnife" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                          </children>
+                        </VBox>
+                      </children>
+                    </HBox>
+                  </children>
+                  <padding>
+                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                  </padding>
+                </VBox>
+              </children></AnchorPane>
+          </content></Tab>
+        <Tab onSelectionChanged="#ordersTab" text="%Tab.Order">
+          <content>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0">
+              <children>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                  <children>
+                    <Label text="%Label.Orders">
+                      <font>
+                        <Font name="Verdana" size="24.0" />
+                      </font>
+                    </Label>
+                    <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                      <children>
+                        <TableView fx:id="tableOrders" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#ClickOrder" HBox.hgrow="ALWAYS">
+                          <columns>
+                            <TableColumn fx:id="KnifeNameColumn" prefWidth="241.0" text="%Column.Knife" />
+                            <TableColumn fx:id="DateColumn" prefWidth="268.0" text="%Column.Date" />
+                            <TableColumn fx:id="QuantityColumn" prefWidth="179.0" text="%Column.Quantity" />
+                          </columns>
+                        </TableView>
+                        <VBox alignment="TOP_CENTER" prefWidth="250.0" spacing="12.0">
+                          <children>
+                            <DatePicker fx:id="dataPicker" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Date" />
+                            <ComboBox fx:id="KnifeNameComboBox" prefHeight="30.0" prefWidth="1000.0" promptText="%Text.Knife" />
+                            <TextField fx:id="QuantityText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" promptText="%Text.Quantity" />
+                            <Button onAction="#AddOrder" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                            <Button onAction="#DeleteOrder" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                            <Button onAction="#UpdateOrder" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                          </children>
+                        </VBox>
+                      </children>
+                    </HBox>
+                  </children>
+                  <padding>
+                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                  </padding>
+                </VBox>
+              </children></AnchorPane>
+          </content>
+        </Tab>
+        <Tab onSelectionChanged="#producersTab" text="%Tab.Producer">
+          <content>
+            <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+              <children>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                  <children>
+                    <Label text="%Label.Producer">
+                      <font>
+                        <Font name="Verdana" size="24.0" />
+                      </font>
+                    </Label>
+                    <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                      <children>
+                        <VBox alignment="TOP_CENTER" fillWidth="false" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="400.0" spacing="12.0">
+                          <children>
+                            <TextField fx:id="producerText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Name" />
+                            <TextField fx:id="countryText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Country" />
+                            <Button onAction="#AddProducer" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                            <Button onAction="#DeleteProducer" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                            <Button onAction="#UpdateProducer" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                            <TableView fx:id="tableProducers" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#ClickProducer" prefHeight="335.0" prefWidth="484.0" VBox.vgrow="ALWAYS">
+                              <columns>
+                                <TableColumn fx:id="producerNameColumn" prefWidth="206.0" text="%Column.Name" />
+                                <TableColumn fx:id="producerCountryColumn" prefWidth="193.0" text="%Column.Country" />
+                              </columns>
+                            </TableView>
+                          </children>
+                        </VBox>
+                        <TableView fx:id="tableKnife2" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="503.0" prefWidth="463.0" HBox.hgrow="ALWAYS">
+                          <columns>
+                            <TableColumn fx:id="KnifeNameColumn2" prefWidth="188.0" text="%Column.Knife" />
+                            <TableColumn fx:id="KnifeCategoryColumn2" prefWidth="205.0" text="%Column.Category" />
+                            <TableColumn fx:id="KnifePriceColumn2" maxWidth="376.0" minWidth="146.0" prefWidth="146.0" text="%Column.Price" />
+                          </columns>
+                        </TableView>
+                      </children>
+                    </HBox>
+                  </children>
+                  <padding>
+                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                  </padding>
+                </VBox>
+              </children></AnchorPane>
+          </content>
+        </Tab>
+        <Tab onSelectionChanged="#categoriesTab" text="%Tab.Category">
+          <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                  <children>
+                    <Label text="%Label.Category">
+                      <font>
+                        <Font name="Verdana" size="24.0" />
+                      </font>
+                    </Label>
+                    <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="40.0" VBox.vgrow="ALWAYS">
+                      <children>
+                        <VBox alignment="TOP_CENTER" fillWidth="false" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="400.0" spacing="12.0">
+                          <children>
+                            <TextField fx:id="categoryText" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="30.0" prefWidth="250.0" promptText="%Text.Name" />
+                            <Button onAction="#AddCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Add" />
+                            <Button onAction="#DeleteCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Delete" />
+                            <Button onAction="#UpdateCategory" prefHeight="30.0" prefWidth="120.0" text="%Button.Update" />
+                            <TableView fx:id="tableCategories" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" onMouseClicked="#ClickCategory" prefHeight="92.0" prefWidth="400.0" VBox.vgrow="ALWAYS">
+                              <columns>
+                                <TableColumn fx:id="categoryNameColumn" prefWidth="399.0" text="%Column.Name" />
+                              </columns>
+                            </TableView>
+                          </children>
+                        </VBox>
+                        <TableView fx:id="tableKnife" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="503.0" prefWidth="463.0" HBox.hgrow="ALWAYS">
+                          <columns>
+                            <TableColumn fx:id="knifeNameColumn1" prefWidth="148.0" text="%Column.Knife" />
+                            <TableColumn fx:id="knifeProducerColumn1" prefWidth="118.0" text="%Column.Producer" />
+                            <TableColumn fx:id="KnifePriceColumn1" maxWidth="300.0" prefWidth="112.0" text="%Column.Price" />
+                            <TableColumn fx:id="knifeCountryColumn1" maxWidth="161.0" prefWidth="161.0" text="%Column.Country" />
+                          </columns>
+                        </TableView>
+                      </children>
+                    </HBox>
+                  </children>
+                  <padding>
+                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                  </padding>
+                </VBox>
+              </children></AnchorPane>
+          </content>
+        </Tab>
+      </tabs>
+    </TabPane>
+  </children>
+</AnchorPane>

@@ -1,0 +1,1064 @@
+31.05.2024 00:01:55.813 [JavaFX Application Thread] INFO  C.MainApplication - Приложение запущено
+31.05.2024 00:01:56.048 [JavaFX Application Thread] DEBUG C.MainApplication - Соединение к БД получено
+31.05.2024 00:01:56.052 [JavaFX Application Thread] INFO  C.MainApplication - Загружены ресурсы для локали de_DE
+31.05.2024 00:01:56.088 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.089 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.090 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.091 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.092 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.093 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.094 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Данные из файла statements.properties получены
+31.05.2024 00:01:56.094 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.703 [JavaFX Application Thread] INFO  C.MainApplication - Приложение запущено
+31.05.2024 00:03:14.908 [JavaFX Application Thread] DEBUG C.MainApplication - Соединение к БД получено
+31.05.2024 00:03:14.912 [JavaFX Application Thread] INFO  C.MainApplication - Загружены ресурсы для локали de_DE
+31.05.2024 00:03:14.946 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.947 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.948 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.949 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.950 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.950 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.951 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:14.952 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.314 [JavaFX Application Thread] INFO  C.MainApplication - Приложение запущено
+31.05.2024 00:03:54.520 [JavaFX Application Thread] DEBUG C.MainApplication - Соединение к БД получено
+31.05.2024 00:03:54.524 [JavaFX Application Thread] INFO  C.MainApplication - Загружены ресурсы для локали de_DE
+31.05.2024 00:03:54.556 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.557 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.558 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.559 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.560 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.560 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.561 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.561 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Данные из файла statements.properties получены
+31.05.2024 00:03:54.809 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Ножи'
+31.05.2024 00:03:54.810 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:54.821 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:54.821 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:54.821 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:54.864 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:54.864 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:54.864 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:54.865 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:54.866 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:54.868 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:54.868 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:54.868 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:54.869 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:54.871 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:54.871 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:54.871 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:54.871 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:54.874 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:54.876 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:54.876 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:54.877 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:54.878 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:54.878 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:54.878 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:54.878 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:56.920 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Ножи'
+31.05.2024 00:03:56.920 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:56.921 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:56.921 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:56.922 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:56.922 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:03:56.922 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:56.923 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:56.923 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:56.923 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:56.924 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:56.924 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:56.924 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:56.924 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:56.924 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:56.925 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:56.925 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:56.925 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:56.925 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:56.926 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:56.926 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:56.926 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:56.927 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:56.927 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:56.927 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:56.927 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:56.928 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:56.928 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:56.928 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:56.928 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:56.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:57.291 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:03:57.292 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:57.293 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:57.293 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:57.293 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.293 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:57.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:57.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:57.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:57.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:57.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:57.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:57.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.295 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:57.296 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:57.296 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:57.296 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.296 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:57.297 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:57.297 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:57.297 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:57.297 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:57.298 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:57.298 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:57.298 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.298 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:57.298 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:03:57.298 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:57.299 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:57.299 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:57.299 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.300 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.301 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:57.302 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:57.303 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:57.303 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:57.303 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:57.303 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:58.205 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:03:58.206 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.206 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.206 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.206 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.206 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:58.206 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.207 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.208 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.208 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.208 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.208 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.208 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:58.209 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.209 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.209 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.209 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:58.209 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:03:58.209 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.210 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.211 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.211 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.211 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.212 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.213 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:58.569 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:03:58.569 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.569 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.569 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.569 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.570 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.571 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:58.572 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.573 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.573 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.573 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:58.573 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:03:58.573 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.573 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.574 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.575 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.576 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.576 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.576 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.576 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:58.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:58.973 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:03:58.974 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.974 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.974 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.974 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.974 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:58.974 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.975 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.976 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.976 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.976 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.976 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.976 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:58.977 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.977 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.977 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.977 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:58.977 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:03:58.977 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:58.978 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.979 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:58.980 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:59.623 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:03:59.624 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:59.624 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:59.624 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:59.624 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:59.625 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:03:59.627 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:03:59.627 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:03:59.627 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:03:59.627 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:03:59.627 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:03:59.628 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:03:59.629 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Ножи'
+31.05.2024 00:03:59.629 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:03:59.629 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:03:59.629 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:03:59.629 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:00.082 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Ножи'
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:00.083 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:00.083 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:00.084 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:00.085 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:00.086 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:00.086 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:00.086 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:00.086 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:04.244 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:04.244 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:04.244 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.245 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:04.246 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.247 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:04.247 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.247 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.247 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.247 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:04.247 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:04.247 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.248 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:04.249 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:04.250 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.250 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:04.250 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.250 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.250 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.250 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:04.712 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:04.713 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.714 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.715 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:04.715 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:04.715 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:04.715 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.716 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:04.717 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:06.000 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:06.000 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.000 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.001 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.002 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:06.003 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Ножи'
+31.05.2024 00:04:06.003 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.003 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.003 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.003 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.292 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Ножи'
+31.05.2024 00:04:06.292 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.292 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.292 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.292 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.292 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:06.292 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.294 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.295 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:06.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.295 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:06.583 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:06.583 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.583 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.583 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.583 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.583 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.584 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.585 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.585 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.585 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.585 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.585 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:06.586 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.586 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.586 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.586 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:06.586 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:06.587 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.587 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.587 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.587 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.587 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.587 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.588 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.589 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.589 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.589 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.589 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.589 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.590 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:06.880 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:06.880 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.881 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.881 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.881 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.881 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.882 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.883 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.883 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.883 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.883 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.883 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.884 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:06.884 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:04:06.885 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.885 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.885 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.885 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.885 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:06.886 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.887 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:06.887 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:06.887 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:06.887 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:06.887 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:06.888 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:06.888 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:06.888 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:06.888 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:07.230 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:04:07.230 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.230 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.230 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.230 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.231 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:07.232 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.232 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.234 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.235 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:07.594 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:07.594 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.595 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.596 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:07.597 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.597 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.598 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.599 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:07.928 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:07.928 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.929 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.930 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:07.931 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:07.931 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:07.932 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:08.286 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:08.286 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.287 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.288 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:08.289 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.289 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.289 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.289 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:08.289 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:04:08.289 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.290 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.291 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:08.572 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:04:08.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.572 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.572 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:08.572 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.574 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.575 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:08.576 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:08.576 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.576 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.577 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.578 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.578 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.578 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.578 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.578 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.578 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.579 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.579 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.579 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.579 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:08.579 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.580 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.580 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.580 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:08.814 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.815 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.816 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.817 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.817 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.817 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.817 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:08.817 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:08.818 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.818 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.819 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:08.820 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:09.136 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Заказы'
+31.05.2024 00:04:09.136 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:09.137 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.138 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:09.139 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:09.139 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.140 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:09.141 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.142 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:09.142 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.142 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.142 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.142 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:09.412 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Производители'
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.413 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.414 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.415 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:09.417 [JavaFX Application Thread] INFO  C.MainController - Выбрана вкладка 'Категории'
+31.05.2024 00:04:09.417 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:09.417 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:09.417 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:09.417 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.417 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Загрузка коллекции
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Создание списка объектов
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Список объектов успешно создан
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.KnifesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Загрузка коллекции
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.418 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Загрузка коллекции
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Создание списка объектов
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Список объектов успешно создан
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.ProducersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:09.419 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Поиск по ID ножей
+31.05.2024 00:04:09.420 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Создание списка объектов
+31.05.2024 00:04:09.420 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Список объектов успешно создан
+31.05.2024 00:04:09.420 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Коллекция успешно загружена
+31.05.2024 00:04:09.420 [JavaFX Application Thread] DEBUG Dao.OrdersDao - Объект ножей успешно получен
+31.05.2024 00:04:10.225 [JavaFX Application Thread] INFO  C.MainController - Выбрана таблица 'Категории'
+31.05.2024 00:04:10.225 [JavaFX Application Thread] DEBUG C.MainController - Строка выбрана
+31.05.2024 00:04:10.225 [JavaFX Application Thread] INFO  S.ServiceCategories - Поиск
+31.05.2024 00:04:10.225 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Поиск по ID ножа
+31.05.2024 00:04:10.226 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:10.226 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:10.226 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:10.227 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Объект ножа успешно получен
+31.05.2024 00:04:10.227 [JavaFX Application Thread] DEBUG C.MainController - Данные успешно получены
+31.05.2024 00:04:11.006 [JavaFX Application Thread] INFO  C.MainController - Нажатие на кнопку 'Удалить'
+31.05.2024 00:04:11.006 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Удаление объекта
+31.05.2024 00:04:11.013 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Объект успешно удален
+31.05.2024 00:04:11.013 [JavaFX Application Thread] INFO  S.ServiceCategories - Удаление
+31.05.2024 00:04:11.014 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Загрузка коллекции
+31.05.2024 00:04:11.014 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Создание списка объектов
+31.05.2024 00:04:11.014 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Список объектов успешно создан
+31.05.2024 00:04:11.014 [JavaFX Application Thread] DEBUG Dao.CategoriesDao - Коллекция успешно загружена
+31.05.2024 00:04:11.014 [JavaFX Application Thread] DEBUG C.MainController - Объект успешно удален

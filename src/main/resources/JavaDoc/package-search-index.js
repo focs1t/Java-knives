@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.javaknifes","l":"Controllers"},{"m":"com.example.javaknifes","l":"Dao"},{"m":"com.example.javaknifes","l":"Models"},{"m":"com.example.javaknifes","l":"Service"},{"m":"com.example.javaknifes","l":"utils"}];updateSearchResults();
